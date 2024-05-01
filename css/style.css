@@ -1083,6 +1083,9 @@ a:focus {
 .info_section .info_top {
   padding: 45px 0;
 }
+h4{
+  color:#2e9b0a;
+  }
 
 .info_section h4 {
   text-transform: uppercase;
