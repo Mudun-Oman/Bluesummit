@@ -1040,7 +1040,7 @@ a:focus {
 .info_section {
   background-color: #252525;
   color: #ffffff;
-  padding: 45px 0;
+  padding: 25px 0;
 }
 
 .info_section .contact_nav {
@@ -1081,7 +1081,7 @@ a:focus {
 }
 
 .info_section .info_top {
-  padding: 45px 0;
+  padding: 25px 0;
 }
 h4{
   color:#2e9b0a;
@@ -1090,7 +1090,7 @@ h4{
 .info_section h4 {
   text-transform: uppercase;
   position: relative;
-  margin-bottom: 25px;
+  margin-bottom: 5px;
 }
 
 .info_section .info_links .info_links_menu {
@@ -1103,8 +1103,8 @@ h4{
 
 .info_section .info_links .info_links_menu a {
   color: #ffffff;
-  -ms-flex-preferred-size: 50%;
-      flex-basis: 50%;
+  -ms-flex-preferred-size: 30%;
+      flex-basis: 30%;
 }
 
 .info_section .info_links .info_links_menu a:hover, .info_section .info_links .info_links_menu a.active {
@@ -1124,7 +1124,7 @@ h4{
 
 .info_section .info_post .post_box .img-box {
   min-width: 45px;
-  max-width: 90px;
+  max-width: 60px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1156,7 +1156,7 @@ h4{
 .info_section .info_form input {
   width: 100%;
   border: none;
-  height: 45px;
+  height: 25px;
   margin-bottom: 25px;
   padding-left: 25px;
   background-color: #eaeaea;
@@ -1166,7 +1166,7 @@ h4{
 
 .info_section .info_form button {
   display: inline-block;
-  padding: 10px 45px;
+  padding: 10px 25px;
   background-color: #f07b26;
   color: #ffffff;
   border-radius: 5px;
@@ -1198,7 +1198,7 @@ h4{
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  margin-top: 25px;
+  margin-top: 5px;
 }
 
 .info_section .info_bottom .social_box a {
